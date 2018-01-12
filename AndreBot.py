@@ -126,4 +126,4 @@ def DeleteTimer(numSeconds):
     while (elapsed < numSeconds):
         elapsed = time.time() - start
 
-bot.run("Mzk4NjQ4MTAyNjAyNDA3OTQ2.DTCeog.6ILVcVX-v8pkQd5bjc0C8aCRlgk")
+bot.run("BOT KEY")
